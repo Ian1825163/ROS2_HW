@@ -13,7 +13,7 @@ find_package(std_msgs REQUIRED)
 # further dependencies manually.
 # find_package(<dependency> REQUIRED)
 add_executable(value_counter src/value_counter.cpp)
-ament_target_dependencies(value_conuter rclcpp std_msgs)
+ament_target_dependencies(value_counter rclcpp std_msgs)
 install(TARGETS
 	value_counter
 	DESTINATION lib ${PROJECT_NAME})
