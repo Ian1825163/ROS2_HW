@@ -1,0 +1,16 @@
+/root/ROS2_HW/install/value_counter/lib/value_counter/value_counter
+/root/ROS2_HW/install/value_counter/share/ament_index/resource_index/package_run_dependencies/value_counter
+/root/ROS2_HW/install/value_counter/share/ament_index/resource_index/parent_prefix_path/value_counter
+/root/ROS2_HW/install/value_counter/share/value_counter/environment/ament_prefix_path.sh
+/root/ROS2_HW/install/value_counter/share/value_counter/environment/ament_prefix_path.dsv
+/root/ROS2_HW/install/value_counter/share/value_counter/environment/path.sh
+/root/ROS2_HW/install/value_counter/share/value_counter/environment/path.dsv
+/root/ROS2_HW/install/value_counter/share/value_counter/local_setup.bash
+/root/ROS2_HW/install/value_counter/share/value_counter/local_setup.sh
+/root/ROS2_HW/install/value_counter/share/value_counter/local_setup.zsh
+/root/ROS2_HW/install/value_counter/share/value_counter/local_setup.dsv
+/root/ROS2_HW/install/value_counter/share/value_counter/package.dsv
+/root/ROS2_HW/install/value_counter/share/ament_index/resource_index/packages/value_counter
+/root/ROS2_HW/install/value_counter/share/value_counter/cmake/value_counterConfig.cmake
+/root/ROS2_HW/install/value_counter/share/value_counter/cmake/value_counterConfig-version.cmake
+/root/ROS2_HW/install/value_counter/share/value_counter/package.xml

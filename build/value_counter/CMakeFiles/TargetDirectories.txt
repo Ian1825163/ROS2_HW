@@ -1,0 +1,10 @@
+/root/ROS2_HW/build/value_counter/CMakeFiles/uninstall.dir
+/root/ROS2_HW/build/value_counter/CMakeFiles/value_counter_uninstall.dir
+/root/ROS2_HW/build/value_counter/CMakeFiles/value_counter.dir
+/root/ROS2_HW/build/value_counter/CMakeFiles/test.dir
+/root/ROS2_HW/build/value_counter/CMakeFiles/edit_cache.dir
+/root/ROS2_HW/build/value_counter/CMakeFiles/rebuild_cache.dir
+/root/ROS2_HW/build/value_counter/CMakeFiles/list_install_components.dir
+/root/ROS2_HW/build/value_counter/CMakeFiles/install.dir
+/root/ROS2_HW/build/value_counter/CMakeFiles/install/local.dir
+/root/ROS2_HW/build/value_counter/CMakeFiles/install/strip.dir

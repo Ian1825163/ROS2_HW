@@ -16,7 +16,7 @@ add_executable(value_counter src/value_counter.cpp)
 ament_target_dependencies(value_counter rclcpp std_msgs)
 install(TARGETS
 	value_counter
-	DESTINATION lib ${PROJECT_NAME})
+	DESTINATION lib/${PROJECT_NAME})
 
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)

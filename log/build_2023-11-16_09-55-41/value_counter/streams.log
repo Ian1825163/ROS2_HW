@@ -1,0 +1,48 @@
+[0.072s] Invoking command in '/root/ROS2_HW/build/value_counter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /root/ROS2_HW/ros2_homework/value_counter -DCMAKE_INSTALL_PREFIX=/root/ROS2_HW/install/value_counter
+[0.094s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.339s] -- Found rclcpp: 16.0.6 (/opt/ros/humble/share/rclcpp/cmake)
+[0.393s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.398s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.413s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.434s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.467s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.583s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.587s] -- Found rmw_fastrtps_cpp: 6.2.4 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.768s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.046s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.143s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.144s] -- Configured cppcheck include dirs: 
+[1.144s] -- Configured cppcheck exclude dirs and/or files: 
+[1.146s] -- Added test 'lint_cmake' to check CMake code style
+[1.147s] -- Added test 'uncrustify' to check C / C++ code style
+[1.149s] -- Configured uncrustify additional arguments: 
+[1.150s] -- Added test 'xmllint' to check XML markup files
+[1.151s] -- Configuring done
+[1.165s] -- Generating done
+[1.189s] -- Build files have been written to: /root/ROS2_HW/build/value_counter
+[1.190s] Invoked command in '/root/ROS2_HW/build/value_counter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /root/ROS2_HW/ros2_homework/value_counter -DCMAKE_INSTALL_PREFIX=/root/ROS2_HW/install/value_counter
+[1.194s] Invoking command in '/root/ROS2_HW/build/value_counter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/ROS2_HW/build/value_counter -- -j12 -l12
+[1.273s] [ 50%] [32mBuilding CXX object CMakeFiles/value_counter.dir/src/value_counter.cpp.o[0m
+[8.384s] [100%] [32m[1mLinking CXX executable value_counter[0m
+[8.710s] [100%] Built target value_counter
+[8.725s] Invoked command in '/root/ROS2_HW/build/value_counter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/ROS2_HW/build/value_counter -- -j12 -l12
+[8.770s] Invoking command in '/root/ROS2_HW/build/value_counter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/ROS2_HW/build/value_counter
+[8.777s] -- Install configuration: ""
+[8.778s] -- Installing: /root/ROS2_HW/install/value_counter/lib/value_counter/value_counter
+[8.780s] -- Set runtime path of "/root/ROS2_HW/install/value_counter/lib/value_counter/value_counter" to ""
+[8.780s] -- Installing: /root/ROS2_HW/install/value_counter/share/ament_index/resource_index/package_run_dependencies/value_counter
+[8.781s] -- Installing: /root/ROS2_HW/install/value_counter/share/ament_index/resource_index/parent_prefix_path/value_counter
+[8.782s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/environment/ament_prefix_path.sh
+[8.782s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/environment/ament_prefix_path.dsv
+[8.782s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/environment/path.sh
+[8.784s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/environment/path.dsv
+[8.784s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/local_setup.bash
+[8.784s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/local_setup.sh
+[8.785s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/local_setup.zsh
+[8.785s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/local_setup.dsv
+[8.785s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/package.dsv
+[8.786s] -- Installing: /root/ROS2_HW/install/value_counter/share/ament_index/resource_index/packages/value_counter
+[8.787s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/cmake/value_counterConfig.cmake
+[8.787s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/cmake/value_counterConfig-version.cmake
+[8.787s] -- Installing: /root/ROS2_HW/install/value_counter/share/value_counter/package.xml
+[8.790s] Invoked command in '/root/ROS2_HW/build/value_counter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/ROS2_HW/build/value_counter

@@ -1,0 +1,6 @@
+Invoking command in '/root/ROS2_HW/build/value_counter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /root/ROS2_HW/ros2_homework/value_counter -DCMAKE_INSTALL_PREFIX=/root/ROS2_HW/install/value_counter
+Invoked command in '/root/ROS2_HW/build/value_counter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /root/ROS2_HW/ros2_homework/value_counter -DCMAKE_INSTALL_PREFIX=/root/ROS2_HW/install/value_counter
+Invoking command in '/root/ROS2_HW/build/value_counter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/ROS2_HW/build/value_counter -- -j12 -l12
+Invoked command in '/root/ROS2_HW/build/value_counter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /root/ROS2_HW/build/value_counter -- -j12 -l12
+Invoking command in '/root/ROS2_HW/build/value_counter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/ROS2_HW/build/value_counter
+Invoked command in '/root/ROS2_HW/build/value_counter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /root/ROS2_HW/build/value_counter

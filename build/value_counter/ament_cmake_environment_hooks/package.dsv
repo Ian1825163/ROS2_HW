@@ -1,0 +1,4 @@
+source;share/value_counter/local_setup.bash
+source;share/value_counter/local_setup.dsv
+source;share/value_counter/local_setup.sh
+source;share/value_counter/local_setup.zsh

@@ -1,0 +1,4 @@
+[31mCMake Error at CMakeLists.txt:17 (install):
+  install TARGETS given unknown argument "value_counter".
+
+[0m
