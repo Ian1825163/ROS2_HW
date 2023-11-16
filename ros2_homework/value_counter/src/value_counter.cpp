@@ -1,7 +1,5 @@
 #include "rclcpp/rclcpp.hpp"
-#include <functional>
-#include <chrono>
-
+#include "std_msgs/msg/int32.hpp"
 // Hint: include the ROS2 integer 32 bit library for messaging
 
 int main(int argc, char** argv)
@@ -17,6 +15,10 @@ int main(int argc, char** argv)
     while (rclcpp::ok() && count <= 5)
     {
         auto msg = std_msgs::msg::Int32();
+	msg.data = count;
+
+
+
         // Fill the missing line of code
         // Hint: makes the content of "msg" to be the value of "count" variable
 
